@@ -10,10 +10,10 @@ title('Correlation between concentration of CO_2 and Global Air Temperature Anom
 yyaxis left
 plot(year, co2ppm, 'b', 'DisplayName', 'CO_2(ppm)')
 xlabel('Year')
-ylabel('Concentration of CO_2 at Sea Level (ppm) [1, 2, 3]')
+ylabel('Concentration of CO_2 at Sea Level (ppm) [1, 2, 3, 4]')
 yyaxis right
 plot(year, avgTemp, 'r', 'DisplayName', 'Temperature')
-ylabel('Global Air Temperature Anomaly [4]')
+ylabel('Global Air Temperature Anomaly [5]')
 hold off
 
 legend('Location', 'northwest')
