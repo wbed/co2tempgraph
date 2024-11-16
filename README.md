@@ -1,7 +1,7 @@
 This code produces a figure comparing CO2 concentration (in parts per million) to Global Air Temperature Anomaly.
 The data is from the years 1850-2023, and is gathered from the following sources:
 
-CO2 ppm data:
+CO_2 concentration data:
 
 1850-1957: D.M. Etheridge, L.P. Steele, R.L. Langenfelds, R.J. Francey, "Natural and anthropogenic changes in atmospheric CO2 over the last 1000 years from air in Antarctic ice and firn"; https://doi.org/10.1029/95JD03410
 
