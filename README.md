@@ -3,7 +3,7 @@ The data is from the years 1850-2023, and is gathered from the following sources
 
 CO2 ppm data:
 
-1850-1957: D.M. Etheridge, L.P. Steele, R.L. Langenfelds, R.J. Francey, "Natural and anthroupogenic changes in atmospheric CO2 over the last 1000 years from air in Antarctic ice and firn".
+1850-1957: D.M. Etheridge, L.P. Steele, R.L. Langenfelds, R.J. Francey, "Natural and anthropogenic changes in atmospheric CO2 over the last 1000 years from air in Antarctic ice and firn"; https://doi.org/10.1029/95JD03410
 
 1958-1974: Means of Scripps Institution of Oceanography Continuous Data at Mauna Loa and South Pole provided by KenMaarie; https://data.giss.nasa.gov/modelforce/ghgases/Fig1A.ext.txt
 
