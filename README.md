@@ -7,7 +7,9 @@ CO<sub>2</sub> concentration data:
 
 1958-1974: Means of Scripps Institution of Oceanography Continuous Data at Mauna Loa and South Pole provided by KenMaarie; https://data.giss.nasa.gov/modelforce/ghgases/Fig1A.ext.txt
 
-1975-2023: Lan, X., Tans, P. and K.W. Thoning: Trends in globally averaged CO<sub>2</sub> determined from NOAA Global Monitoring Laboratory measurements. Version 2024-11; https://doi.org/10.15138/9N0H-ZH07
+1975-1978: Means of NOAA/CMDL in-situ data at Mauna Loa and South Pole. (P. Tans and K.W. Thoning, ftp://ftp.cmdl.noaa.gov/ccg/co2/in-situ)
+
+1979-2023: Lan, X., Tans, P. and K.W. Thoning: Trends in globally averaged CO<sub>2</sub> determined from NOAA Global Monitoring Laboratory measurements. Version 2024-11; https://doi.org/10.15138/9N0H-ZH07
 
 Temperature data:
 
