@@ -14,3 +14,5 @@ CO<sub>2</sub> concentration data:
 Temperature data:
 
 1850-2023: C. P. Morice, J. J. Kennedy, N. A. Rayner, J. P. Winn, E. Hogan, R. E. Killick, R. J. H. Dunn, T. J. Osborn, P. D. Jones, I. R. Simpson: An Updated Assessment of Near-Surface Temperature Change From 1850: The HadCRUT5 Data Set; https://doi.org/10.1029/2019JD032361
+
+[![DOI](https://zenodo.org/badge/889274404.svg)](https://doi.org/10.5281/zenodo.14194617)
